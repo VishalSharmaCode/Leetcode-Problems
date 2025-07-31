@@ -4,4 +4,4 @@ def linearSearch(arr, item):
             return i
     return 'Element is not in this array'
         
-print('Position of element is:>', linearSearch([1,2,3,4,5], 10))
+print('Position of element is:>', linearSearch([4,5,6,7,0,1,2], 0))
